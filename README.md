@@ -25,6 +25,7 @@ A shell script that determines the total number of students who fail in a course
 
 First column is student ID, second column is midterm result and the third one is final result. Sample run for this script is like :
 $ sh calculate.sh notlar.txt
+
 \> 32 students failed in this course
 
 
