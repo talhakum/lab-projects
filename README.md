@@ -1,7 +1,7 @@
 # relative-evaluation-system
 
 
-## Operating System Lab Projects 
+## Operating Systems Lab Projects 
 
 ### wc.sh
 
